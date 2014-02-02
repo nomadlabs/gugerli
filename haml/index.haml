@@ -22,8 +22,18 @@
         %h1 Steven Gugerli
         %h2 100 m-Läufer, GG Bern
 
-      %img{"data-interchange" => "[imgs/gugerli.jpg, (small)], [imgs/gugerli.jpg, (medium)], [imgs/gugerli.jpg, (large)]"}
+    .row
+      .large-12.columns
+        %img{"data-interchange" => "[imgs/gugerli.jpg, (small)], [imgs/gugerli.jpg, (medium)], [imgs/gugerli.jpg, (large)]"}
 
+    .row
+      .large-12.large-offset-6.columns
+        %p 
+          Steven Gugerli unterstützen
+          %br
+          %a{href: 'pdfs/Sponsoring-Dossier_Gugerli.pdf', target: '_blank'}Sponsoring-Dossier (pdf)
+          %br
+          %a{mailto: 'kontakt@stevengugerli.ch'} kontakt@stevengugerli.ch
     %script{src: "bower_components/jquery/jquery.js"}
     %script{src: "bower_components/fastclick/lib/fastclick.js"}
     %script{src: "bower_components/foundation/js/foundation.min.js"}
