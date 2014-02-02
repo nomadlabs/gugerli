@@ -1,0 +1,6 @@
+{
+  "name": "tugerli",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}

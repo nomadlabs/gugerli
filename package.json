@@ -1,0 +1,12 @@
+{
+  "name": "tugerli",
+  "version": "0.0.1",
+  "devDependencies": {
+    "node-sass": "*",
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-sass": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-haml": "~0.8.0"
+  }
+}
