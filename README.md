@@ -13,7 +13,7 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
+git clone https://github.com/nomadlabs/gugerli.git
 npm install && bower install
 ```
 
